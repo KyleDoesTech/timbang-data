@@ -235,7 +235,14 @@
         "chickenjoy solo"
       ],
       "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Typical 1-pc fried chicken serving; piece size and cut vary.",
+      "calories": 320,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 20,
+      "servingLabel": "1 piece"
     },
     {
       "id": "jollibee-jolly-spaghetti-solo",
@@ -248,7 +255,14 @@
         "jolly spaghetti solo"
       ],
       "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Typical sweet-style spaghetti serving with meat sauce and cheese.",
+      "calories": 390,
+      "protein": 12,
+      "carbs": 61,
+      "fat": 11,
+      "servingLabel": "1 solo serving"
     },
     {
       "id": "jollibee-yumburger-solo",
@@ -261,7 +275,14 @@
         "yum burger"
       ],
       "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Small beef burger with bun and dressing.",
+      "calories": 250,
+      "protein": 10,
+      "carbs": 31,
+      "fat": 10,
+      "servingLabel": "1 burger"
     },
     {
       "id": "jollibee-cheesy-yumburger-solo",
@@ -273,7 +294,14 @@
         "cheesy yumburger"
       ],
       "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Yumburger-style beef burger plus cheese.",
+      "calories": 310,
+      "protein": 13,
+      "carbs": 32,
+      "fat": 15,
+      "servingLabel": "1 burger"
     },
     {
       "id": "jollibee-1pc-burger-steak-solo",
@@ -287,7 +315,14 @@
         "1 pc burger steak"
       ],
       "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Rice plus one beef patty and mushroom gravy.",
+      "calories": 310,
+      "protein": 13,
+      "carbs": 47,
+      "fat": 8,
+      "servingLabel": "1 rice meal"
     },
     {
       "id": "jollibee-palabok-solo",
@@ -300,7 +335,14 @@
         "palabok solo"
       ],
       "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Rice noodles, palabok sauce, toppings and egg.",
+      "calories": 410,
+      "protein": 16,
+      "carbs": 60,
+      "fat": 12,
+      "servingLabel": "1 solo serving"
     },
     {
       "id": "chowking-siomai-chao-fan",
@@ -313,7 +355,14 @@
         "chao fan siomai"
       ],
       "sourceUrl": "https://www.chowking.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Chao fan rice plus siomai serving.",
+      "calories": 570,
+      "protein": 20,
+      "carbs": 75,
+      "fat": 21,
+      "servingLabel": "1 meal"
     },
     {
       "id": "chowking-chao-fan",
@@ -326,7 +375,14 @@
         "fried rice chowking"
       ],
       "sourceUrl": "https://www.chowking.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Fried rice with egg, meat and seasoning.",
+      "calories": 430,
+      "protein": 13,
+      "carbs": 65,
+      "fat": 13,
+      "servingLabel": "1 bowl"
     },
     {
       "id": "chowking-lauriat",
@@ -338,7 +394,14 @@
         "lauriat"
       ],
       "sourceUrl": "https://www.chowking.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Typical Lauriat combination of rice/noodles, protein and sides.",
+      "calories": 850,
+      "protein": 30,
+      "carbs": 105,
+      "fat": 34,
+      "servingLabel": "1 meal"
     },
     {
       "id": "starbucks-beef-shawarma",
@@ -350,7 +413,14 @@
         "beef shawarma"
       ],
       "sourceUrl": "https://www.starbucks.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Bread/wrap, seasoned beef, vegetables and creamy sauce.",
+      "calories": 470,
+      "protein": 22,
+      "carbs": 49,
+      "fat": 21,
+      "servingLabel": "1 sandwich"
     },
     {
       "id": "starbucks-berry-chia-overnight-oats",
@@ -363,7 +433,14 @@
         "starbucks oats"
       ],
       "sourceUrl": "https://www.starbucks.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Oats, chia, milk/yogurt-style base, berries and sweetener.",
+      "calories": 330,
+      "protein": 9,
+      "carbs": 53,
+      "fat": 10,
+      "servingLabel": "1 serving"
     },
     {
       "id": "bk-whopper",
@@ -376,7 +453,14 @@
         "whopper"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Large flame-grilled beef burger with bun, mayonnaise and vegetables.",
+      "calories": 660,
+      "protein": 28,
+      "carbs": 49,
+      "fat": 39,
+      "servingLabel": "1 burger"
     },
     {
       "id": "bk-whopper-jr",
@@ -389,7 +473,14 @@
         "whopper jr"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Junior flame-grilled beef burger with bun and condiments.",
+      "calories": 330,
+      "protein": 14,
+      "carbs": 31,
+      "fat": 17,
+      "servingLabel": "1 burger"
     },
     {
       "id": "bk-4-cheese-whopper",
@@ -402,7 +493,14 @@
         "4 cheese whopper"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Whopper-style burger plus multiple cheeses/cheese sauce.",
+      "calories": 820,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 52,
+      "servingLabel": "1 burger"
     },
     {
       "id": "bk-4-cheese-whopper-jr",
@@ -414,7 +512,14 @@
         "4 cheese whopper jr"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Junior Whopper-style burger with added cheeses.",
+      "calories": 460,
+      "protein": 20,
+      "carbs": 34,
+      "fat": 27,
+      "servingLabel": "1 burger"
     },
     {
       "id": "bk-xtra-long-chicken",
@@ -427,7 +532,14 @@
         "xtra long chicken"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Long breaded chicken sandwich with bun and creamy dressing.",
+      "calories": 650,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 31,
+      "servingLabel": "1 sandwich"
     },
     {
       "id": "bk-chicken-king",
@@ -440,7 +552,14 @@
         "chicken king"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Large breaded chicken sandwich with bun and sauce.",
+      "calories": 690,
+      "protein": 29,
+      "carbs": 57,
+      "fat": 38,
+      "servingLabel": "1 sandwich"
     },
     {
       "id": "bk-flame-cheeseburger",
@@ -453,7 +572,14 @@
         "flame grilled cheeseburger"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Small flame-grilled beef cheeseburger.",
+      "calories": 310,
+      "protein": 16,
+      "carbs": 30,
+      "fat": 14,
+      "servingLabel": "1 burger"
     },
     {
       "id": "bk-krispper-rice",
@@ -466,7 +592,14 @@
         "krispper rice"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Breaded fried chicken plus steamed rice.",
+      "calories": 520,
+      "protein": 23,
+      "carbs": 63,
+      "fat": 19,
+      "servingLabel": "1 rice meal"
     },
     {
       "id": "bk-fries",
@@ -479,7 +612,14 @@
         "thick cut fries"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Typical regular thick-cut fast-food fries.",
+      "calories": 300,
+      "protein": 4,
+      "carbs": 41,
+      "fat": 14,
+      "servingLabel": "1 regular serving"
     },
     {
       "id": "bk-onion-rings",
@@ -492,7 +632,14 @@
         "onion rings"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Breaded fried onion rings.",
+      "calories": 300,
+      "protein": 4,
+      "carbs": 39,
+      "fat": 15,
+      "servingLabel": "1 regular serving"
     },
     {
       "id": "bk-nuggets",
@@ -505,7 +652,14 @@
         "chicken nuggets"
       ],
       "sourceUrl": "https://www.burgerking.com.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Typical six-piece breaded chicken nugget serving.",
+      "calories": 260,
+      "protein": 14,
+      "carbs": 17,
+      "fat": 15,
+      "servingLabel": "6 pieces"
     },
     {
       "id": "popeyes-fried-chicken",
@@ -518,7 +672,14 @@
         "signature fried chicken"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Typical bone-in breaded fried chicken piece; cut varies.",
+      "calories": 310,
+      "protein": 20,
+      "carbs": 13,
+      "fat": 20,
+      "servingLabel": "1 piece"
     },
     {
       "id": "popeyes-spicy-chicken-sandwich",
@@ -530,7 +691,14 @@
         "popeyes spicy chicken sandwich"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Breaded chicken fillet, bun, pickles and spicy mayonnaise.",
+      "calories": 700,
+      "protein": 28,
+      "carbs": 50,
+      "fat": 43,
+      "servingLabel": "1 sandwich"
     },
     {
       "id": "popeyes-chicken-tenders",
@@ -542,7 +710,14 @@
         "popeyes chicken tenders"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Three breaded fried chicken tenders.",
+      "calories": 450,
+      "protein": 31,
+      "carbs": 29,
+      "fat": 23,
+      "servingLabel": "3 pieces"
     },
     {
       "id": "popeyes-cajun-fries",
@@ -555,7 +730,14 @@
         "cajun fries"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Seasoned fried potatoes.",
+      "calories": 270,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 12,
+      "servingLabel": "1 regular serving"
     },
     {
       "id": "popeyes-cajun-rice",
@@ -567,7 +749,14 @@
         "cajun rice"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Seasoned rice with savory mix-ins.",
+      "calories": 250,
+      "protein": 7,
+      "carbs": 43,
+      "fat": 6,
+      "servingLabel": "1 serving"
     },
     {
       "id": "popeyes-mashed-potato",
@@ -579,7 +768,14 @@
         "popeyes mashed potatoes"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Mashed potato plus Cajun-style gravy.",
+      "calories": 130,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 5,
+      "servingLabel": "1 regular serving"
     },
     {
       "id": "popeyes-biscuit",
@@ -592,7 +788,14 @@
         "honey biscuit"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Buttermilk-style biscuit with honey/butter profile.",
+      "calories": 210,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 11,
+      "servingLabel": "1 biscuit"
     },
     {
       "id": "popeyes-spaghetti",
@@ -603,7 +806,14 @@
         "popeyes spaghetti"
       ],
       "sourceUrl": "https://popeyes.ph/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Sweet-style spaghetti with meat sauce and cheese.",
+      "calories": 400,
+      "protein": 13,
+      "carbs": 61,
+      "fat": 12,
+      "servingLabel": "1 serving"
     },
     {
       "id": "bonchon-1pc-chicken-rice",
@@ -615,7 +825,14 @@
         "bonchon chicken rice"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "One glazed Korean fried chicken piece plus steamed rice.",
+      "calories": 500,
+      "protein": 22,
+      "carbs": 61,
+      "fat": 19,
+      "servingLabel": "1 meal"
     },
     {
       "id": "bonchon-2pc-chicken-rice",
@@ -627,7 +844,14 @@
         "bonchon chicken rice"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Two glazed Korean fried chicken pieces plus steamed rice.",
+      "calories": 750,
+      "protein": 39,
+      "carbs": 70,
+      "fat": 35,
+      "servingLabel": "1 meal"
     },
     {
       "id": "bonchon-3pc-bonless",
@@ -639,7 +863,14 @@
         "3pc bonless chikin"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Three boneless glazed chicken pieces with rice.",
+      "calories": 590,
+      "protein": 30,
+      "carbs": 73,
+      "fat": 20,
+      "servingLabel": "1 meal"
     },
     {
       "id": "bonchon-poppers",
@@ -651,7 +882,14 @@
         "chicken poppers"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Bite-size breaded chicken with Korean glaze.",
+      "calories": 430,
+      "protein": 25,
+      "carbs": 42,
+      "fat": 18,
+      "servingLabel": "1 serving"
     },
     {
       "id": "bonchon-beef-bulgogi",
@@ -663,7 +901,14 @@
         "beef bulgogi"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Marinated beef bulgogi served with rice.",
+      "calories": 570,
+      "protein": 28,
+      "carbs": 76,
+      "fat": 17,
+      "servingLabel": "1 rice meal"
     },
     {
       "id": "bonchon-beef-stew",
@@ -675,7 +920,14 @@
         "sizzling beef stew"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Braised beef stew served with rice.",
+      "calories": 610,
+      "protein": 30,
+      "carbs": 71,
+      "fat": 23,
+      "servingLabel": "1 rice meal"
     },
     {
       "id": "bonchon-bibimbowl-beef",
@@ -687,7 +939,14 @@
         "bibimbowl beef"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Rice bowl with beef, vegetables, sauce and toppings.",
+      "calories": 620,
+      "protein": 27,
+      "carbs": 83,
+      "fat": 20,
+      "servingLabel": "1 bowl"
     },
     {
       "id": "bonchon-bibimbowl-chicken",
@@ -699,7 +958,14 @@
         "bibimbowl chicken"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Rice bowl with chicken, vegetables, sauce and toppings.",
+      "calories": 590,
+      "protein": 26,
+      "carbs": 82,
+      "fat": 18,
+      "servingLabel": "1 bowl"
     },
     {
       "id": "bonchon-bap-bowl",
@@ -711,7 +977,14 @@
         "bap bowl"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Rice bowl with chicken poppers, sauce and toppings.",
+      "calories": 540,
+      "protein": 24,
+      "carbs": 75,
+      "fat": 16,
+      "servingLabel": "1 bowl"
     },
     {
       "id": "bonchon-chikin-chops-sandwich",
@@ -723,7 +996,14 @@
         "chikin chops sandwich"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Breaded chicken sandwich with bun and sauce.",
+      "calories": 610,
+      "protein": 28,
+      "carbs": 55,
+      "fat": 31,
+      "servingLabel": "1 sandwich"
     },
     {
       "id": "bonchon-spicy-deluxe",
@@ -735,7 +1015,14 @@
         "spicy deluxe sandwich"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Spicy glazed breaded chicken sandwich with sauce.",
+      "calories": 650,
+      "protein": 29,
+      "carbs": 58,
+      "fat": 33,
+      "servingLabel": "1 sandwich"
     },
     {
       "id": "bonchon-chapchae",
@@ -747,7 +1034,14 @@
         "chapchae"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Sweet-potato glass noodles with vegetables and savory sauce.",
+      "calories": 360,
+      "protein": 9,
+      "carbs": 58,
+      "fat": 10,
+      "servingLabel": "1 serving"
     },
     {
       "id": "bonchon-korean-fried-rice",
@@ -758,7 +1052,14 @@
         "bonchon korean fried rice"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Seasoned fried rice with egg/vegetable mix-ins.",
+      "calories": 430,
+      "protein": 11,
+      "carbs": 65,
+      "fat": 14,
+      "servingLabel": "1 serving"
     },
     {
       "id": "bonchon-white-rice",
@@ -769,7 +1070,14 @@
         "bonchon white rice"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Approximate one-cup cooked white rice serving.",
+      "calories": 205,
+      "protein": 4,
+      "carbs": 45,
+      "fat": 0,
+      "servingLabel": "1 cup"
     },
     {
       "id": "bonchon-kimchi-rice",
@@ -780,7 +1088,14 @@
         "bonchon kimchi rice"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Rice cooked/tossed with kimchi and seasoning.",
+      "calories": 330,
+      "protein": 7,
+      "carbs": 55,
+      "fat": 9,
+      "servingLabel": "1 serving"
     },
     {
       "id": "bonchon-mandu",
@@ -792,7 +1107,14 @@
         "4 pcs mandu"
       ],
       "sourceUrl": "https://www.bonchon.com.ph/menu",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Four pan-fried/fried chicken dumplings.",
+      "calories": 280,
+      "protein": 12,
+      "carbs": 34,
+      "fat": 11,
+      "servingLabel": "4 pieces"
     },
     {
       "id": "jollibee-chickenjoy",
@@ -805,7 +1127,15 @@
         "jollibee chicken"
       ],
       "sourceUrl": "https://www.jollibeefoods.com/",
-      "nutritionStatus": "pending"
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Generic Chickenjoy estimate; exact cut/meal can vary.",
+      "calories": 320,
+      "protein": 20,
+      "carbs": 15,
+      "fat": 20,
+      "servingLabel": "1 typical piece"
     }
-  ]
+  ],
+  "nutritionMethod": "Verified values use published restaurant nutrition where available. Estimated values are component/comparable-serving estimates and may differ from actual restaurant portions."
 }
