@@ -1,0 +1,811 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-21",
+  "foods": [
+    {
+      "id": "mang-inasal-pm1",
+      "name": "Paa Large - PM1",
+      "restaurant": "Mang Inasal",
+      "subtitle": "Paa Large Chicken Inasal + 1 cup rice",
+      "aliases": [
+        "mang inasal pm1",
+        "pm1",
+        "paa large",
+        "paa large 1 rice",
+        "chicken inasal paa"
+      ],
+      "sourceUrl": "https://www.manginasal.ph/menu/paa-large-pm1",
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Component estimate: grilled marinated chicken leg quarter + 1 cup cooked white rice. Restaurant portion, retained marinade/oil, and edible chicken weight can vary.",
+      "calories": 600,
+      "protein": 39,
+      "carbs": 52,
+      "fat": 26,
+      "servingLabel": "1 PM1 meal"
+    },
+    {
+      "id": "mang-inasal-pm2",
+      "name": "Pecho Large - PM2",
+      "restaurant": "Mang Inasal",
+      "subtitle": "Pecho Large Chicken Inasal + 1 cup rice",
+      "aliases": [
+        "mang inasal pm2",
+        "pm2",
+        "pecho large",
+        "pecho large 1 rice",
+        "chicken inasal pecho"
+      ],
+      "sourceUrl": "https://www.manginasal.ph/menu",
+      "nutritionStatus": "estimated",
+      "estimateConfidence": "moderate",
+      "estimateBasis": "Component estimate: grilled marinated chicken breast/wing portion + 1 cup cooked white rice. Restaurant portion and retained marinade/oil can vary.",
+      "calories": 550,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 17,
+      "servingLabel": "1 PM2 meal"
+    },
+    {
+      "id": "kfc-1pc-chicken-rice",
+      "name": "1-pc Chicken & Rice",
+      "restaurant": "KFC Philippines",
+      "subtitle": "1 piece chicken + steamed rice",
+      "aliases": [
+        "kfc 1pc chicken rice",
+        "kfc chicken rice",
+        "1 pc chicken rice"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 476,
+      "protein": 23,
+      "carbs": 59,
+      "fat": 17,
+      "servingLabel": "1 serving"
+    },
+    {
+      "id": "kfc-1pc-chicken-no-rice",
+      "name": "1-pc Chicken (no rice)",
+      "restaurant": "KFC Philippines",
+      "subtitle": "1 piece KFC chicken • no rice",
+      "aliases": [
+        "kfc 1pc chicken",
+        "kfc chicken no rice",
+        "1 pc chicken no rice"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 296,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 16,
+      "servingLabel": "1 serving"
+    },
+    {
+      "id": "kfc-spaghetti",
+      "name": "Spaghetti",
+      "restaurant": "KFC Philippines",
+      "subtitle": "KFC spaghetti",
+      "aliases": [
+        "kfc spaghetti",
+        "spaghetti"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 306,
+      "protein": 7,
+      "carbs": 54,
+      "fat": 7,
+      "servingLabel": "1 serving"
+    },
+    {
+      "id": "kfc-zinger-burger",
+      "name": "Zinger Burger",
+      "restaurant": "KFC Philippines",
+      "subtitle": "KFC Zinger Burger",
+      "aliases": [
+        "kfc zinger",
+        "kfc zinger burger",
+        "zinger burger"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 710,
+      "protein": 23,
+      "carbs": 46,
+      "fat": 48,
+      "servingLabel": "1 serving"
+    },
+    {
+      "id": "kfc-regular-fries",
+      "name": "Regular Crispy Fries",
+      "restaurant": "KFC Philippines",
+      "subtitle": "Regular KFC crispy fries",
+      "aliases": [
+        "kfc fries",
+        "kfc regular fries",
+        "regular crispy fries"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 107,
+      "protein": 2,
+      "carbs": 17,
+      "fat": 4,
+      "servingLabel": "1 regular serving"
+    },
+    {
+      "id": "kfc-mashed-potato",
+      "name": "Regular Mashed Potato",
+      "restaurant": "KFC Philippines",
+      "subtitle": "Regular KFC mashed potato",
+      "aliases": [
+        "kfc mashed potato",
+        "regular mashed potato"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 84,
+      "protein": 2,
+      "carbs": 11,
+      "fat": 4,
+      "servingLabel": "1 regular serving"
+    },
+    {
+      "id": "kfc-famous-bowl",
+      "name": "Famous Bowl",
+      "restaurant": "KFC Philippines",
+      "subtitle": "KFC Famous Bowl snack serving",
+      "aliases": [
+        "kfc famous bowl",
+        "famous bowl"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 303,
+      "protein": 9,
+      "carbs": 26,
+      "fat": 18,
+      "servingLabel": "1 snack serving"
+    },
+    {
+      "id": "kfc-ala-king-rice-bowl",
+      "name": "Rice Bowl - Ala King",
+      "restaurant": "KFC Philippines",
+      "subtitle": "KFC Ala King rice bowl",
+      "aliases": [
+        "kfc ala king",
+        "kfc ala king rice bowl",
+        "ala king rice bowl"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 528,
+      "protein": 14,
+      "carbs": 80,
+      "fat": 12,
+      "servingLabel": "1 serving"
+    },
+    {
+      "id": "kfc-sisig-rice-bowl",
+      "name": "Rice Bowl - Sisig",
+      "restaurant": "KFC Philippines",
+      "subtitle": "KFC Sisig rice bowl",
+      "aliases": [
+        "kfc sisig",
+        "kfc sisig rice bowl",
+        "sisig rice bowl"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 750,
+      "protein": 24,
+      "carbs": 76,
+      "fat": 39,
+      "servingLabel": "1 serving"
+    },
+    {
+      "id": "kfc-chicken-cheeseburger",
+      "name": "Chicken Cheeseburger",
+      "restaurant": "KFC Philippines",
+      "subtitle": "KFC Chicken Cheeseburger",
+      "aliases": [
+        "kfc chicken cheeseburger",
+        "chicken cheeseburger"
+      ],
+      "sourceUrl": "https://corporate.kfc.com.ph/nutrition-and-allergen-information/",
+      "nutritionStatus": "verified",
+      "calories": 253,
+      "protein": 7,
+      "carbs": 29,
+      "fat": 12,
+      "servingLabel": "1 burger"
+    },
+    {
+      "id": "jollibee-1pc-chickenjoy-solo",
+      "name": "1-pc Chickenjoy Solo",
+      "restaurant": "Jollibee",
+      "subtitle": "Official Jollibee menu item",
+      "aliases": [
+        "jollibee chickenjoy",
+        "chickenjoy",
+        "1pc chickenjoy",
+        "1 pc chickenjoy",
+        "chickenjoy solo"
+      ],
+      "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "jollibee-jolly-spaghetti-solo",
+      "name": "Jolly Spaghetti Solo",
+      "restaurant": "Jollibee",
+      "subtitle": "Official Jollibee menu item",
+      "aliases": [
+        "jollibee spaghetti",
+        "jolly spaghetti",
+        "jolly spaghetti solo"
+      ],
+      "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "jollibee-yumburger-solo",
+      "name": "Yumburger Solo",
+      "restaurant": "Jollibee",
+      "subtitle": "Official Jollibee menu item",
+      "aliases": [
+        "jollibee yumburger",
+        "yumburger",
+        "yum burger"
+      ],
+      "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "jollibee-cheesy-yumburger-solo",
+      "name": "Cheesy Yumburger Solo",
+      "restaurant": "Jollibee",
+      "subtitle": "Official Jollibee menu item",
+      "aliases": [
+        "jollibee cheesy yumburger",
+        "cheesy yumburger"
+      ],
+      "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "jollibee-1pc-burger-steak-solo",
+      "name": "1-pc Burger Steak Solo",
+      "restaurant": "Jollibee",
+      "subtitle": "Official Jollibee menu item",
+      "aliases": [
+        "jollibee burger steak",
+        "burger steak",
+        "1pc burger steak",
+        "1 pc burger steak"
+      ],
+      "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "jollibee-palabok-solo",
+      "name": "Palabok Solo",
+      "restaurant": "Jollibee",
+      "subtitle": "Official Jollibee menu item",
+      "aliases": [
+        "jollibee palabok",
+        "palabok",
+        "palabok solo"
+      ],
+      "sourceUrl": "https://help.jollibee.com.ph/hc/en-ph/articles/12483672999311-Jollibee-Kids-Party-Menu-Overview",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "chowking-siomai-chao-fan",
+      "name": "Siomai Chao Fan",
+      "restaurant": "Chowking",
+      "subtitle": "Official Chowking menu family • serving varies by selected item",
+      "aliases": [
+        "chowking siomai chao fan",
+        "siomai chao fan",
+        "chao fan siomai"
+      ],
+      "sourceUrl": "https://www.chowking.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "chowking-chao-fan",
+      "name": "Chao Fan",
+      "restaurant": "Chowking",
+      "subtitle": "Official Chowking menu category/item family",
+      "aliases": [
+        "chowking chao fan",
+        "chao fan",
+        "fried rice chowking"
+      ],
+      "sourceUrl": "https://www.chowking.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "chowking-lauriat",
+      "name": "Lauriat",
+      "restaurant": "Chowking",
+      "subtitle": "Official Chowking menu category • choose exact meal before logging",
+      "aliases": [
+        "chowking lauriat",
+        "lauriat"
+      ],
+      "sourceUrl": "https://www.chowking.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "starbucks-beef-shawarma",
+      "name": "Beef Shawarma",
+      "restaurant": "Starbucks Philippines",
+      "subtitle": "Official Starbucks Philippines food item",
+      "aliases": [
+        "starbucks beef shawarma",
+        "beef shawarma"
+      ],
+      "sourceUrl": "https://www.starbucks.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "starbucks-berry-chia-overnight-oats",
+      "name": "Berry Chia Overnight Oats",
+      "restaurant": "Starbucks Philippines",
+      "subtitle": "Official Starbucks Philippines food item",
+      "aliases": [
+        "starbucks berry chia overnight oats",
+        "berry chia overnight oats",
+        "starbucks oats"
+      ],
+      "sourceUrl": "https://www.starbucks.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-whopper",
+      "name": "Whopper",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "100% flame-grilled beef burger",
+      "aliases": [
+        "burger king whopper",
+        "bk whopper",
+        "whopper"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-whopper-jr",
+      "name": "Whopper Jr.",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Flame-grilled Whopper Jr.",
+      "aliases": [
+        "burger king whopper jr",
+        "bk whopper jr",
+        "whopper jr"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-4-cheese-whopper",
+      "name": "4-Cheese Whopper",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Four-cheese flame-grilled burger",
+      "aliases": [
+        "burger king 4 cheese whopper",
+        "bk 4 cheese whopper",
+        "4 cheese whopper"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-4-cheese-whopper-jr",
+      "name": "4-Cheese Whopper Jr.",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Four-cheese flame-grilled junior burger",
+      "aliases": [
+        "burger king 4 cheese whopper jr",
+        "4 cheese whopper jr"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-xtra-long-chicken",
+      "name": "X-tra Long Chicken",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Chicken sandwich",
+      "aliases": [
+        "burger king xtra long chicken",
+        "bk xtra long chicken",
+        "xtra long chicken"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-chicken-king",
+      "name": "Chicken King",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Chicken sandwich",
+      "aliases": [
+        "burger king chicken king",
+        "bk chicken king",
+        "chicken king"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-flame-cheeseburger",
+      "name": "Flame-Grilled Cheeseburger",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Flame-grilled cheeseburger",
+      "aliases": [
+        "burger king cheeseburger",
+        "bk cheeseburger",
+        "flame grilled cheeseburger"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-krispper-rice",
+      "name": "1-pc BK Krispper with Rice",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Chicken rice meal",
+      "aliases": [
+        "burger king krispper rice",
+        "bk krispper rice",
+        "krispper rice"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-fries",
+      "name": "Thick-Cut Fries",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Burger King fries",
+      "aliases": [
+        "burger king fries",
+        "bk fries",
+        "thick cut fries"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-onion-rings",
+      "name": "Onion Rings",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Burger King onion rings",
+      "aliases": [
+        "burger king onion rings",
+        "bk onion rings",
+        "onion rings"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bk-nuggets",
+      "name": "Chicken Nuggets",
+      "restaurant": "Burger King Philippines",
+      "subtitle": "Burger King chicken nuggets",
+      "aliases": [
+        "burger king nuggets",
+        "bk nuggets",
+        "chicken nuggets"
+      ],
+      "sourceUrl": "https://www.burgerking.com.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-fried-chicken",
+      "name": "Signature Fried Chicken",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes fried chicken",
+      "aliases": [
+        "popeyes chicken",
+        "popeyes fried chicken",
+        "signature fried chicken"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-spicy-chicken-sandwich",
+      "name": "Spicy Chicken Sandwich",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes spicy chicken sandwich",
+      "aliases": [
+        "popeyes chicken sandwich",
+        "popeyes spicy chicken sandwich"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-chicken-tenders",
+      "name": "Chicken Tenders",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes chicken tenders",
+      "aliases": [
+        "popeyes tenders",
+        "popeyes chicken tenders"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-cajun-fries",
+      "name": "Cajun Fries",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes Cajun fries",
+      "aliases": [
+        "popeyes fries",
+        "popeyes cajun fries",
+        "cajun fries"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-cajun-rice",
+      "name": "Cajun Rice",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes Cajun rice",
+      "aliases": [
+        "popeyes cajun rice",
+        "cajun rice"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-mashed-potato",
+      "name": "Mashed Potatoes with Cajun Gravy",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes side",
+      "aliases": [
+        "popeyes mashed potato",
+        "popeyes mashed potatoes"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-biscuit",
+      "name": "Honey Biscuit",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Popeyes biscuit",
+      "aliases": [
+        "popeyes biscuit",
+        "popeyes honey biscuit",
+        "honey biscuit"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "popeyes-spaghetti",
+      "name": "Popeyes Spaghetti",
+      "restaurant": "Popeyes Philippines",
+      "subtitle": "Philippines-developed spaghetti",
+      "aliases": [
+        "popeyes spaghetti"
+      ],
+      "sourceUrl": "https://popeyes.ph/",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-1pc-chicken-rice",
+      "name": "1-pc Korean Fried Chicken with Rice",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Korean fried chicken rice meal",
+      "aliases": [
+        "bonchon 1pc chicken rice",
+        "bonchon chicken rice"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-2pc-chicken-rice",
+      "name": "2-pc Korean Fried Chicken with Rice",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Korean fried chicken rice meal",
+      "aliases": [
+        "bonchon 2pc chicken rice",
+        "bonchon chicken rice"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-3pc-bonless",
+      "name": "3-pc Bonless Chikin",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Bonless chicken rice meal",
+      "aliases": [
+        "bonchon bonless chikin",
+        "3pc bonless chikin"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-poppers",
+      "name": "Chicken Poppers",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Glazed bite-sized chicken",
+      "aliases": [
+        "bonchon chicken poppers",
+        "chicken poppers"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-beef-bulgogi",
+      "name": "Beef Bulgogi",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Marinated beef strips over rice",
+      "aliases": [
+        "bonchon beef bulgogi",
+        "beef bulgogi"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-beef-stew",
+      "name": "Sizzling Beef Stew",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Korean beef stew with rice",
+      "aliases": [
+        "bonchon beef stew",
+        "sizzling beef stew"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-bibimbowl-beef",
+      "name": "Ultimate Sizzling Bibimbowl - Beef",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Beef Korean rice bowl",
+      "aliases": [
+        "bonchon bibimbowl beef",
+        "bibimbowl beef"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-bibimbowl-chicken",
+      "name": "Ultimate Sizzling Bibimbowl - Chicken",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Chicken Korean rice bowl",
+      "aliases": [
+        "bonchon bibimbowl chicken",
+        "bibimbowl chicken"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-bap-bowl",
+      "name": "Bap Bowl",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Chicken poppers rice bowl",
+      "aliases": [
+        "bonchon bap bowl",
+        "bap bowl"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-chikin-chops-sandwich",
+      "name": "Chikin Chops Sandwich",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Crispy chicken sandwich",
+      "aliases": [
+        "bonchon chikin chops sandwich",
+        "chikin chops sandwich"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-spicy-deluxe",
+      "name": "Spicy Deluxe Sandwich",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Spicy glazed chicken sandwich",
+      "aliases": [
+        "bonchon spicy deluxe",
+        "spicy deluxe sandwich"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-chapchae",
+      "name": "Chapchae",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Korean glass noodles",
+      "aliases": [
+        "bonchon chapchae",
+        "chapchae"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-korean-fried-rice",
+      "name": "Korean Fried Rice",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Savory Korean fried rice",
+      "aliases": [
+        "bonchon korean fried rice"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-white-rice",
+      "name": "White Rice",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Cup of white rice",
+      "aliases": [
+        "bonchon white rice"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-kimchi-rice",
+      "name": "Kimchi Rice",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Rice tossed with kimchi",
+      "aliases": [
+        "bonchon kimchi rice"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "bonchon-mandu",
+      "name": "4-pcs Mandu",
+      "restaurant": "Bonchon Philippines",
+      "subtitle": "Chicken mandu",
+      "aliases": [
+        "bonchon mandu",
+        "4 pcs mandu"
+      ],
+      "sourceUrl": "https://www.bonchon.com.ph/menu",
+      "nutritionStatus": "pending"
+    },
+    {
+      "id": "jollibee-chickenjoy",
+      "name": "Chickenjoy",
+      "restaurant": "Jollibee",
+      "subtitle": "Official menu item • choose exact piece/meal before logging",
+      "aliases": [
+        "jollibee chickenjoy",
+        "chickenjoy",
+        "jollibee chicken"
+      ],
+      "sourceUrl": "https://www.jollibeefoods.com/",
+      "nutritionStatus": "pending"
+    }
+  ]
+}
